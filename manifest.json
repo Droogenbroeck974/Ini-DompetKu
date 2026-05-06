@@ -2,7 +2,7 @@
   "name": "Dompetku - Keuangan Pribadi",
   "short_name": "Dompetku",
   "description": "Aplikasi manajemen keuangan pribadi",
-  "start_url": ".",
+  "start_url": "./index.html",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#0a0e17",
